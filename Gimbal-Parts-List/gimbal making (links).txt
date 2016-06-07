@@ -1,0 +1,13 @@
+Link for 3d printing design (parts):
+http://www.thingiverse.com/thing:1247236
+
+All the files for 3d printing are in “Gimbal_3-axis (3d printing).zip” file.
+
+1. Brushless Gimbal Motor (3)
+http://www.hobbyking.com/hobbyking/store/__42247__Quanum_2208_Precision_Brushless_Gimbal_Motor_GoPRO_size_100_200g_.html
+
+2. Brushless Gimbal Controller (1)
+http://www.hobbyking.com/hobbyking/store/__84191__Storm_32_3_Axis_Brushless_Gimbal_Controller.html
+
+3. Damping Shock Absorber balls (4)
+http://www.amazon.com/DJI-Standard-Version-Damping-Absorber/dp/B00RCAOPEI
