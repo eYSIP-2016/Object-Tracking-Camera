@@ -24,7 +24,7 @@ def select_ROI(event,x,y,flags,param):
         cv2.rectangle(frame,(ix,iy),(jx,jy),(255,0,0),2)
 
 # Grab the reference to the camera
-cap = cv2.VideoCapture('sample.mp4')
+cap = cv2.VideoCapture(0)
 
 # setup the mouse callback
 cv2.namedWindow('frame',cv2.WINDOW_NORMAL)
