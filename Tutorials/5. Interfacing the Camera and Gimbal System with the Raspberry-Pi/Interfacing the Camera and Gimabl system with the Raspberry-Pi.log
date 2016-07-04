@@ -1,0 +1,245 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  5 JUL 2016 01:42
+entering extended mode
+**Interfacing*the*Camera*and*Gimabl*system*with*the*Raspberry-Pi.tex
+
+("C:\Users\Admin\Desktop\4.Interfacing the Camera and Gimbal System with the ra
+spberry-Pi\Interfacing the Camera and Gimabl system with the Raspberry-Pi.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+No file Interfacing*the*Camera*and*Gimabl*system*with*the*Raspberry-Pi.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen112
+\scratchbox=\box26
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen113
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks16
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+ [1
+
+{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+No file Interfacing*the*Camera*and*Gimabl*system*with*the*Raspberry-Pi.toc.
+\tf@toc=\write3
+[2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 28.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 28.
+ [3]
+<cmd.png, id=17, 261.22594pt x 18.0675pt>
+File: cmd.png Graphic file (type png)
+ <use cmd.png>
+Package pdftex.def Info: cmd.png used on input line 58.
+(pdftex.def)             Requested size: 156.73676pt x 10.84058pt.
+
+<enablecam.png, id=18, 492.33937pt x 288.3272pt>
+File: enablecam.png Graphic file (type png)
+ <use enablecam.png>
+Package pdftex.def Info: enablecam.png used on input line 61.
+(pdftex.def)             Requested size: 295.40588pt x 172.99763pt.
+
+<servo.jpg, id=19, 293.095pt x 173.64874pt>
+File: servo.jpg Graphic file (type jpg)
+ <use servo.jpg>
+Package pdftex.def Info: servo.jpg used on input line 68.
+(pdftex.def)             Requested size: 146.54713pt x 86.82416pt.
+ [4 <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gimbal System with the
+ raspberry-Pi/cmd.png> <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gim
+bal System with the raspberry-Pi/enablecam.png>] <gpio.jpg, id=23, 255.95625pt 
+x 289.83281pt>
+File: gpio.jpg Graphic file (type jpg)
+
+<use gpio.jpg>
+Package pdftex.def Info: gpio.jpg used on input line 72.
+(pdftex.def)             Requested size: 153.57492pt x 173.90102pt.
+ <frame.jpg, id=24, 345.54094pt x 343.2825pt>
+File: frame.jpg Graphic file (type jpg)
+ <use frame.jpg>
+Package pdftex.def Info: frame.jpg used on input line 76.
+(pdftex.def)             Requested size: 207.32616pt x 205.97107pt.
+
+[5 <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gimbal System with the 
+raspberry-Pi/servo.jpg> <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gi
+mbal System with the raspberry-Pi/gpio.jpg> <C:/Users/Admin/Desktop/4.Interfaci
+ng the Camera and Gimbal System with the raspberry-Pi/frame.jpg>]
+Overfull \hbox (10.17007pt too wide) in paragraph at lines 90--91
+\OT1/cmr/m/n/10.95 After in-stalling the RPIO pack-age we can cal-i-brate the s
+er-vos ac-cord-ingly.Open
+ []
+
+<cmd2.jpg, id=28, 482.55281pt x 164.11313pt>
+File: cmd2.jpg Graphic file (type jpg)
+ <use cmd2.jpg>
+Package pdftex.def Info: cmd2.jpg used on input line 92.
+(pdftex.def)             Requested size: 289.5339pt x 98.46863pt.
+
+<cmd3.jpg, id=29, 483.30562pt x 286.06876pt>
+File: cmd3.jpg Graphic file (type jpg)
+ <use cmd3.jpg>
+Package pdftex.def Info: cmd3.jpg used on input line 97.
+(pdftex.def)             Requested size: 289.98561pt x 171.64258pt.
+ [6 <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gimbal System with the
+ raspberry-Pi/cmd2.jpg> <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gi
+mbal System with the raspberry-Pi/cmd3.jpg>] <image.jpg, id=33, 642.4pt x 481.8
+pt>
+File: image.jpg Graphic file (type jpg)
+ <use image.jpg>
+Package pdftex.def Info: image.jpg used on input line 101.
+(pdftex.def)             Requested size: 385.44298pt x 289.08221pt.
+
+Overfull \hbox (25.44298pt too wide) in paragraph at lines 101--102
+ [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 106.
+
+Overfull \hbox (95.27795pt too wide) in paragraph at lines 107--108
+[]$\OT1/cmtt/m/n/10.95 https : / / thepihut . com / blogs / raspberry-[]pi-[]tu
+torials / 16021420-[]how-[]to-[]install _$
+ []
+
+
+Overfull \hbox (58.78583pt too wide) in paragraph at lines 108--109
+[]$\OT1/cmtt/m/n/10.95 http : / / cmucam . org / projects / cmucam5 / wiki / As
+sembling _ pantilt-[]Mechanism$ 
+ []
+
+[7 <C:/Users/Admin/Desktop/4.Interfacing the Camera and Gimbal System with the 
+raspberry-Pi/image.jpg>]
+("C:\Users\Admin\Desktop\4.Interfacing the Camera and Gimbal System with the ra
+spberry-Pi\Interfacing the Camera and Gimabl system with the Raspberry-Pi.aux")
+ ) 
+Here is how much of TeX's memory you used:
+ 2383 strings out of 493921
+ 37279 string characters out of 3147282
+ 92803 words of memory out of 3000000
+ 5695 multiletter control sequences out of 15000+200000
+ 8979 words of font info for 32 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 36i,6n,38p,395b,256s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmtt10.pfb>
+Output written on "Interfacing the Camera and Gimabl system with the Raspberry-
+Pi.pdf" (7 pages, 429435 bytes).
+PDF statistics:
+ 62 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+
