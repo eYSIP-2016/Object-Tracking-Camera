@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Re-recognizing the object if it escapes and comes back into the frame. Tutorial on algorithm used}{3}
+\contentsline {section}{\numberline {2}Prerequisites}{3}
+\contentsline {section}{\numberline {3}Hardware Requirement}{3}
+\contentsline {section}{\numberline {4}Software Requirement}{3}
+\contentsline {section}{\numberline {5}Theory and Description}{3}
+\contentsline {section}{\numberline {6}Experiment}{5}
+\contentsline {section}{\numberline {7}Exercise}{12}
+\contentsline {section}{\numberline {8}References}{13}

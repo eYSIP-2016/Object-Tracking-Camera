@@ -1,0 +1,535 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  5 JUL 2016 13:49
+entering extended mode
+**Re-recognizing*the*object*if*it*escapes*and*comes*back*into*the*frame.tex
+
+("C:\Users\Admin\Desktop\4. Re-recognizing the object if it escapes and comes b
+ack into the frame. Tutorial on algorithm used\Re-recognizing the object if it 
+escapes and comes back into the frame.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen105
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen106
+\lst@width=\dimen107
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen108
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks16
+\float@box=\box28
+\@float@everytoks=\toks17
+\@floatcapt=\box29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen109
+\captionmargin@=\dimen110
+\captionwidth=\dimen111
+\caption@tempdima=\dimen112
+\caption@indent=\dimen113
+\caption@parindent=\dimen114
+\caption@hangindent=\dimen115
+)
+\c@ContinuedFloat=\count97
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count98
+\c@subtable=\count99
+)
+No file Re-recognizing*the*object*if*it*escapes*and*comes*back*into*the*frame.a
+ux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen116
+\scratchbox=\box30
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen117
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks19
+)
+\c@lstlisting=\count106
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 21.
+ [1
+
+{C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+No file Re-recognizing*the*object*if*it*escapes*and*comes*back*into*the*frame.t
+oc.
+\tf@toc=\write3
+[2]
+Overfull \hbox (1.41138pt too wide) in paragraph at lines 25--25
+[]\OT1/cmr/bx/n/14.4 Re-recognizing the ob-ject if it es-capes and comes
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+ [3]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no ™ in font cmr10!
+ [4]
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+("C:\Users\Admin\Desktop\4. Re-recognizing the object if it escapes and comes b
+ack into the frame. Tutorial on algorithm used\code.py"
+Overfull \hbox (53.9143pt too wide) in paragraph at lines 7--8
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 11--12
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (185.31567pt too wide) in paragraph at lines 14--15
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 20--21
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (99.90479pt too wide) in paragraph at lines 27--29
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[5]
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 60--61
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Font shape `OMS/cmr/m/it' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 69.
+LaTeX Font Info:    Try loading font information for OML+cmr on input line 80.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omlcmr.fd"
+File: omlcmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 80.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 81.
+ [6]
+Overfull \hbox (218.16602pt too wide) in paragraph at lines 90--92
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (106.47485pt too wide) in paragraph at lines 97--98
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 101--102
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (21.06396pt too wide) in paragraph at lines 102--104
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (191.88574pt too wide) in paragraph at lines 105--107
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (172.17554pt too wide) in paragraph at lines 108--110
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (145.89526pt too wide) in paragraph at lines 112--113
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[7]
+Overfull \hbox (34.2041pt too wide) in paragraph at lines 145--146
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (270.72656pt too wide) in paragraph at lines 157--159
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (198.45581pt too wide) in paragraph at lines 160--161
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 161--163
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (303.5769pt too wide) in paragraph at lines 164--165
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (191.88574pt too wide) in paragraph at lines 165--167
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (881.74292pt too wide) in paragraph at lines 168--170
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+
+Overfull \hbox (231.30615pt too wide) in paragraph at lines 171--173
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[8]
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 186--188
+[][][][][][][][] 
+ []
+
+
+Overfull \hbox (251.01636pt too wide) in paragraph at lines 189--191
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (224.73608pt too wide) in paragraph at lines 192--193
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (697.781pt too wide) in paragraph at lines 205--206
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 211--212
+[][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Font shape `OML/cmr/m/it' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 213.
+
+Overfull \hbox (93.33472pt too wide) in paragraph at lines 214--215
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (106.47485pt too wide) in paragraph at lines 215--216
+[][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[9]
+Overfull \hbox (67.05444pt too wide) in paragraph at lines 217--218
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (80.19458pt too wide) in paragraph at lines 218--220
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (237.87622pt too wide) in paragraph at lines 220--221
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (126.18506pt too wide) in paragraph at lines 221--222
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (113.04492pt too wide) in paragraph at lines 224--226
+[][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (40.77417pt too wide) in paragraph at lines 227--228
+[][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (231.30615pt too wide) in paragraph at lines 234--236
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.33472pt too wide) in paragraph at lines 236--238
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (316.71704pt too wide) in paragraph at lines 239--241
+[][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (198.45581pt too wide) in paragraph at lines 242--244
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (86.76465pt too wide) in paragraph at lines 245--247
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (310.14697pt too wide) in paragraph at lines 248--250
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[10]
+Overfull \hbox (14.4939pt too wide) in paragraph at lines 261--262
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (152.46533pt too wide) in paragraph at lines 282--283
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (448.11841pt too wide) in paragraph at lines 284--285
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (664.93066pt too wide) in paragraph at lines 285--286
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (388.9878pt too wide) in paragraph at lines 286--287
+[][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (362.70752pt too wide) in paragraph at lines 287--288
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (218.16602pt too wide) in paragraph at lines 288--289
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (316.71704pt too wide) in paragraph at lines 289--291
+[][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[11]
+Overfull \hbox (1.35376pt too wide) in paragraph at lines 306--307
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (53.9143pt too wide) in paragraph at lines 312--313
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+) <Image1.jpg, id=44, 485.56406pt x 383.18156pt>
+File: Image1.jpg Graphic file (type jpg)
+ <use Image1.jpg>
+Package pdftex.def Info: Image1.jpg used on input line 80.
+(pdftex.def)             Requested size: 323.99258pt x 227.62457pt.
+
+<Image2.jpg, id=45, 484.81125pt x 384.6872pt>
+File: Image2.jpg Graphic file (type jpg)
+ <use Image2.jpg>
+Package pdftex.def Info: Image2.jpg used on input line 85.
+(pdftex.def)             Requested size: 324.0155pt x 170.7186pt.
+
+<Image3.jpg, id=46, 486.31688pt x 384.6872pt>
+File: Image3.jpg Graphic file (type jpg)
+ <use Image3.jpg>
+Package pdftex.def Info: Image3.jpg used on input line 90.
+(pdftex.def)             Requested size: 323.99773pt x 170.7186pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (7.54764pt too wide) in paragraph at lines 96--97
+[]$\OT1/cmtt/m/n/10.95 https : / / opencv-[]python-[]tutroals . readthedocs . i
+o / en / latest / py _$
+ []
+
+[12 <C:/Users/Admin/Desktop/4. Re-recognizing the object if it escapes and come
+s back into the frame. Tutorial on algorithm used/Image1.jpg>]
+Overfull \hbox (18.54501pt too wide) in paragraph at lines 98--99
+[]$\OT1/cmtt/m/n/10.95 http : / / vgl-[]ait . org / mdailey / uploads / publica
+tion _ file / filename /$
+ []
+
+[13 <C:/Users/Admin/Desktop/4. Re-recognizing the object if it escapes and come
+s back into the frame. Tutorial on algorithm used/Image2.jpg> <C:/Users/Admin/D
+esktop/4. Re-recognizing the object if it escapes and comes back into the frame
+. Tutorial on algorithm used/Image3.jpg>]
+("C:\Users\Admin\Desktop\4. Re-recognizing the object if it escapes and comes b
+ack into the frame. Tutorial on algorithm used\Re-recognizing the object if it 
+escapes and comes back into the frame.aux") ) 
+Here is how much of TeX's memory you used:
+ 3900 strings out of 493921
+ 59495 string characters out of 3147282
+ 150746 words of memory out of 3000000
+ 7188 multiletter control sequences out of 15000+200000
+ 9018 words of font info for 32 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,6n,43p,429b,1640s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "Re-recognizing the object if it escapes and comes back into 
+the frame.pdf" (13 pages, 261942 bytes).
+PDF statistics:
+ 84 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
