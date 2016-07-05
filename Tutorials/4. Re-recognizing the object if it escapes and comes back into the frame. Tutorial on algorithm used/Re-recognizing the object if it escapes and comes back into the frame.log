@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  5 JUL 2016 13:49
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  5 JUL 2016 15:28
 entering extended mode
 **Re-recognizing*the*object*if*it*escapes*and*comes*back*into*the*frame.tex
 
-("C:\Users\Admin\Desktop\4. Re-recognizing the object if it escapes and comes b
-ack into the frame. Tutorial on algorithm used\Re-recognizing the object if it 
-escapes and comes back into the frame.tex"
+("E:\GitHub\Object-Tracking-Camera\Tutorials\4. Re-recognizing the object if it
+ escapes and comes back into the frame. Tutorial on algorithm used\Re-recognizi
+ng the object if it escapes and comes back into the frame.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -126,8 +126,9 @@ Package caption Info: listings package is loaded.
 \c@subfigure=\count98
 \c@subtable=\count99
 )
-No file Re-recognizing*the*object*if*it*escapes*and*comes*back*into*the*frame.a
-ux.
+("E:\GitHub\Object-Tracking-Camera\Tutorials\4. Re-recognizing the object if it
+ escapes and comes back into the frame. Tutorial on algorithm used\Re-recognizi
+ng the object if it escapes and comes back into the frame.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
@@ -140,6 +141,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
 LaTeX Font Info:    ... okay on input line 20.
+
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count100
@@ -166,15 +168,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-No file Re-recognizing*the*object*if*it*escapes*and*comes*back*into*the*frame.t
-oc.
+("E:\GitHub\Object-Tracking-Camera\Tutorials\4. Re-recognizing the object if it
+ escapes and comes back into the frame. Tutorial on algorithm used\Re-recognizi
+ng the object if it escapes and comes back into the frame.toc")
 \tf@toc=\write3
-[2]
-Overfull \hbox (1.41138pt too wide) in paragraph at lines 25--25
-[]\OT1/cmr/bx/n/14.4 Re-recognizing the ob-ject if it es-capes and comes
- []
-
+ [2]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
@@ -196,12 +196,12 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- [4]
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-)
-("C:\Users\Admin\Desktop\4. Re-recognizing the object if it escapes and comes b
-ack into the frame. Tutorial on algorithm used\code.py"
+) [4]
+("E:\GitHub\Object-Tracking-Camera\Tutorials\4. Re-recognizing the object if it
+ escapes and comes back into the frame. Tutorial on algorithm used\code.py"
 Overfull \hbox (53.9143pt too wide) in paragraph at lines 7--8
 [][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -355,12 +355,12 @@ Overfull \hbox (106.47485pt too wide) in paragraph at lines 215--216
 [][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[9]
+
 Overfull \hbox (67.05444pt too wide) in paragraph at lines 217--218
 [][][][][][][][][][][][][][][][][][] 
  []
 
-
+[9]
 Overfull \hbox (80.19458pt too wide) in paragraph at lines 218--220
 [][][][][][][][][][][][][][][][][][] 
  []
@@ -415,12 +415,12 @@ Overfull \hbox (310.14697pt too wide) in paragraph at lines 248--250
 [][][][][][][][][][][][][][][][][][][][][][][][] 
  []
 
-[10]
+
 Overfull \hbox (14.4939pt too wide) in paragraph at lines 261--262
 [][][][][][][][][][][][][][][][][][][][][] 
  []
 
-
+[10]
 Overfull \hbox (152.46533pt too wide) in paragraph at lines 282--283
 [][][][][][][][][][][][][][][][][][][][][][][][][] 
  []
@@ -469,7 +469,7 @@ Overfull \hbox (53.9143pt too wide) in paragraph at lines 312--313
 File: Image1.jpg Graphic file (type jpg)
  <use Image1.jpg>
 Package pdftex.def Info: Image1.jpg used on input line 80.
-(pdftex.def)             Requested size: 323.99258pt x 227.62457pt.
+(pdftex.def)             Requested size: 323.99258pt x 284.54387pt.
 
 <Image2.jpg, id=45, 484.81125pt x 384.6872pt>
 File: Image2.jpg Graphic file (type jpg)
@@ -495,39 +495,41 @@ Overfull \hbox (7.54764pt too wide) in paragraph at lines 96--97
 o / en / latest / py _$
  []
 
-[12 <C:/Users/Admin/Desktop/4. Re-recognizing the object if it escapes and come
-s back into the frame. Tutorial on algorithm used/Image1.jpg>]
+[12 <E:/GitHub/Object-Tracking-Camera/Tutorials/4. Re-recognizing the object if
+ it escapes and comes back into the frame. Tutorial on algorithm used/Image1.jp
+g>]
 Overfull \hbox (18.54501pt too wide) in paragraph at lines 98--99
 []$\OT1/cmtt/m/n/10.95 http : / / vgl-[]ait . org / mdailey / uploads / publica
 tion _ file / filename /$
  []
 
-[13 <C:/Users/Admin/Desktop/4. Re-recognizing the object if it escapes and come
-s back into the frame. Tutorial on algorithm used/Image2.jpg> <C:/Users/Admin/D
-esktop/4. Re-recognizing the object if it escapes and comes back into the frame
-. Tutorial on algorithm used/Image3.jpg>]
-("C:\Users\Admin\Desktop\4. Re-recognizing the object if it escapes and comes b
-ack into the frame. Tutorial on algorithm used\Re-recognizing the object if it 
-escapes and comes back into the frame.aux") ) 
+[13 <E:/GitHub/Object-Tracking-Camera/Tutorials/4. Re-recognizing the object if
+ it escapes and comes back into the frame. Tutorial on algorithm used/Image2.jp
+g> <E:/GitHub/Object-Tracking-Camera/Tutorials/4. Re-recognizing the object if 
+it escapes and comes back into the frame. Tutorial on algorithm used/Image3.jpg
+>]
+("E:\GitHub\Object-Tracking-Camera\Tutorials\4. Re-recognizing the object if it
+ escapes and comes back into the frame. Tutorial on algorithm used\Re-recognizi
+ng the object if it escapes and comes back into the frame.aux") ) 
 Here is how much of TeX's memory you used:
- 3900 strings out of 493921
- 59495 string characters out of 3147282
- 150746 words of memory out of 3000000
+ 3904 strings out of 493921
+ 60503 string characters out of 3147282
+ 152807 words of memory out of 3000000
  7188 multiletter control sequences out of 15000+200000
  9018 words of font info for 32 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 42i,6n,43p,429b,1640s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fi
-les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+ 42i,6n,43p,407b,1640s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Program Files/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
 Output written on "Re-recognizing the object if it escapes and comes back into 
-the frame.pdf" (13 pages, 261942 bytes).
+the frame.pdf" (13 pages, 264748 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
