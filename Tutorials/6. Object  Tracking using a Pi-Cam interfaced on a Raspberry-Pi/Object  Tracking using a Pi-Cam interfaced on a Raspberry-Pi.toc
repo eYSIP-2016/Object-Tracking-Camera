@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Object Tracking using a Pi-Cam interfaced on a Raspberry-Pi}{3}
+\contentsline {section}{\numberline {2}Prerequisites}{3}
+\contentsline {section}{\numberline {3}Hardware Requirement}{3}
+\contentsline {section}{\numberline {4}Software Requirement}{3}
+\contentsline {section}{\numberline {5}Theory and Description}{3}
+\contentsline {section}{\numberline {6}Experiment}{4}
+\contentsline {section}{\numberline {7}References}{17}
+\contentsline {section}{\numberline {8}Exercise}{18}
