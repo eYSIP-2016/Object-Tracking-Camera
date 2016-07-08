@@ -19,8 +19,8 @@ cap = cv2.VideoCapture(0) ##use 1 in parameter instead of 0 for external
 ## param1 and param2 are minimum and maximum range of hsv values for
 ## the following hsv values are of the Orange colored object
 ## which we are tracking
-param1 = [0,100,50]      ## [H_min,S_min,V_min]
-param2 = [30,255,255]    ## [H_max,S_max,V_max]
+param1 = [70,50,50]      ## [H_min,S_min,V_min]
+param2 = [100,255,255]    ## [H_max,S_max,V_max]
 ## You can put give range of the HSV values of any color and track
 ## that respective colored object
 

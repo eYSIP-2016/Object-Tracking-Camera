@@ -242,7 +242,7 @@ while(1):
         back_projection1 = cv2.morphologyEx(back_projection1, cv2.MORPH_OPEN, kernel)
 
         #Show back_projection
-        cv2.imshow('back_projection_recognization',back_projection1)
+        #cv2.imshow('back_projection_recognization',back_projection1)
 
         #Get contours
         contours, hierarchy = cv2.findContours(back_projection1,cv2.RETR_TREE,cv2.CHAIN_APPROX_SIMPLE)
