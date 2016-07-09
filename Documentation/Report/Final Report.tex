@@ -58,7 +58,10 @@ contents={\includegraphics{logo}}
 
 %package for inserting pictures
 \usepackage{graphicx}
-
+\usepackage{listings}
+\usepackage{url}
+\usepackage{float}
+\usepackage{subcaption}
 %package for highlighting
 \usepackage{color,soul}
 
@@ -143,28 +146,41 @@ The Tutorials done are as follows:
 		\par In our case,we overclocked the R-Pi from 700 Mhz(default) to 900 Mhz.
 		
 		\subsection{Setting up Camera(Pi-Cam)}
-		After fixing the Pi-cam in its connector located between the Ethernet port and HDMI port,boot up your Raspberry-Pi and open the terminal and run the following command and enable the camera(if not enabled) and reboot ur R-Pi.
-		\begin{center}
-			\includegraphics[scale=0.6]{cmd.png}
-		\end{center}
-		\begin{center}
-		   \includegraphics[scale=0.6]{enablecam.png}
-		\end{center}
+		After fixing the Pi-cam in its connector located between the Ethernet port and HDMI port,boot up your Raspberry-Pi and open the terminal and run the following command shown in Fig 1 and enable the camera(if not enabled) and reboot ur R-Pi 
+	    \begin{figure}[h!]
+         \includegraphics[scale=0.6]{cmd.png}
+         \centering
+         \caption{Fig 1}
+        \end{figure}
+		 
+	   	\begin{center}
+         \includegraphics[scale=0.6]{enablecam.png}
+         \centering
+        \end{center}
 		\par We can check the working status of the camera by using "raspistill -o image.jpg" which takes a picture with the camera and stores it in image.jpg. 
 	
 		\subsection{Setting up the Pan-Tilt System}
-		For making the Pan-Tilt system we will be using Two Tower Pro Servo Motors each weighing 9g (we used micro servos as they would draw a little amount of current which can be produced by the R-Pi itself)
-		  \begin{center}
-		   \includegraphics[scale=0.5]{servo.jpg}
-		\end{center}
-		\par We connected the first servo to the Pin 16(GPIO 23) and second servo to Pin 18(GPIO 24) on the board.We use this pins as signal channels when we use the servos from R-Pi.All the available GPIO ports that can be used are shown below.
-		 \begin{center}
-		   \includegraphics[scale=0.6]{gpio.jpg}
-		\end{center}
-		\par We calibrated each of the motor's PWM values(explained in the later section) and assembled to the frame mount which is shown below.
-		  \begin{center}
-		   \includegraphics[scale=0.6]{frame.jpg}
-		\end{center}
+		For making the Pan-Tilt system we will be using Two Tower Pro Servo Motors(Fig 3) each weighing 9g (we used micro servos as they would draw a little amount of current which can be produced by the R-Pi itself)
+		\begin{figure}[h!]
+         \includegraphics[scale=0.6]{servo.jpg}
+         \centering
+         \caption{Fig 3}
+        \end{figure}
+        
+		\par We connected the first servo to the Pin 16(GPIO 23) and second servo to Pin 18(GPIO 24) on the board.We use this pins as signal channels when we use the servos from R-Pi.All the available GPIO ports that can be used are shown in Fig 4.
+		
+	    \begin{figure}[h!]
+         \includegraphics[scale=0.6]{gpio.jpg}
+         \centering
+         \caption{Fig 4}
+        \end{figure}
+		
+		\par We calibrated each of the motor's PWM values and assembled to the frame mount which is shown in Fig 5.
+		\begin{figure}[h!]
+         \includegraphics[scale=0.6]{frame.jpg}
+         \centering
+         \caption{Fig 5}
+        \end{figure}
 
 
 
