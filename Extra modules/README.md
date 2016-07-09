@@ -1,1 +1,0 @@
-This directory consists other algorithms in which we have worked.
