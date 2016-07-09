@@ -5,12 +5,12 @@ Nowadays, we get drones that say they are tracking objects. But what they actual
 
 ##Components and Software Used:
 ***
-**Python 2.7.5**
-**Open CV 2.9**
-**Raspberry-Pi B + board**
-**3-D printed Camera mount frame**
-**Raspberry-Pi Camera(experimental purpose)**
-**Tower Pro SG90 mini servos**
+* **Python 2.7.5**
+* **Open CV 2.9**
+* **Raspberry-Pi B + board**
+* **3-D printed Camera mount frame**
+* **Raspberry-Pi Camera(experimental purpose)**
+* **Tower Pro SG90 mini servos**
 
 
 
