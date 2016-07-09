@@ -1,0 +1,1 @@
+#### Run the code.py file through the terminal as the servos will be initializing some global variables and processes.
