@@ -98,7 +98,17 @@ Object tracking is the process of locating a moving object over time using a cam
  \par This system will track an object given through a Region-Of-interest using Real-Time Image Processing.The project starts with learning basic Image processing techniques and Object tracking techniques and in later stages,Advanced tracking techniques are experimented and implemented. 
 
 \subsection*{Completion status}
-The task of detecting and tracking a object using a camera is done \textbf{sucessfully}.The task of integrating the camera on the autonomous drone is yet to be done.
+The task of detecting and tracking a object using a camera is done \textbf{sucessfully}.The tasks of integrating the camera on the autonomous drone and GUI appplication for the system is yet to be done.We completed all of the tasks given to us and uploaded the tutorials on \href{https://github.com/eYSIP-2016/Object-Tracking-Camera}{GitHub}
+The Tutorials done are as follows:
+\begin{itemize}
+ \item \textbf{Colored Object Tracking using HSV:}Tracks a colored ball by taking it HSV color range as its input and tracks the colored object by finding the largest area contour in the frame which will be our object.
+ \item \textbf{Object Tracking(Based on ROI):}Tracks any object which is given in the ROI(taken through mouse) by CAM SHift Algorithm using Histograms and back-projections of the object.
+ \item \textbf{Tutorial on Gimbal making:}Explains on how to choose Gimbal and its parts for the drone ,how to select best low-weight parts and designing the gimbal.
+ \item \textbf{Re-recognizing the Object:}Re-recognizes the object if it gets lost out of the frame comparing the back-projection of the object with the whole frame and searches for the object when it gets lost
+ \item \textbf{Setting Up Raspberry-Pi:}Installing necessary python packages required for tracking and camera packages.Interfacing the servos with the GPIO pins of R-Pi.
+ \item \textbf{Object Tracking Camera interfaced on a Raspberry-Pi:}Cam Shift algorithm and Re-recognizing algorithms are implemented on the R-pi which has a interfaced Object tracking camera on it.Thi system tracks any object given through a ROI.
+ \end{itemize}
+
 \section{Hardware parts}
 \begin{itemize}
   \item Raspberry Pi B+
