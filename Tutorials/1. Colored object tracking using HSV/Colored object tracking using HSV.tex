@@ -11,6 +11,7 @@
 \usepackage{graphicx}
 \usepackage{listings}
 \usepackage{url}
+\usepackage{hyperref}
 \title{Tutorial - Colored object tracking using HSV}
 \author{e-Yantra Team}
 \date{\today}
@@ -47,16 +48,35 @@
 		\item Here we are using HSV Colorspace for Object detection instead of RGB Colorspace because unlike RGB, HSV separates luma, or the image intensity, from chroma or the color information.By using HSV/HSL we can also remove intensity,lightness which is not possible in RGB colorspace.Moreover HSV can also detect skin color ,fire color etc. 
 		\item  As every pixel in the frame has different HSV values,we threshold(mask) the object by extracting it using the HSV values of it.We do this by masking all pixels by setting value 1(white) that have the HSV value as of the object and other pixels in the frame to 0 .
 		\item After getting the binary image,we find contours bounding the white blobs in the frame and find their respective areas.Among all the bounded contours,the contour with the largest area would be our colored object.
-		\item Now we generate a boundary bounding that contour.In this way we can identify a colored object in a frame.By repeating this process in every frame we can track the object.		
-		\item \textbf{Note :} This code works only, when your object (which you want to track) is the largest object of its color in the frame.
+		\begin{figure}[h!]
+		\includegraphics[scale=0.4]{Capture1.jpg}	
+		\centering
+		\caption{Masked image showing contours in the frame}
+		\end{figure}
+		\item Now we generate a boundary bounding that contour.In this way we can identify a colored object in a frame.By repeating this process in every frame we can track the object.Refer Figure 2		
+		\begin{figure}[h]
+		\includegraphics[scale=0.4]{Capture2.jpg}	
+		\centering
+		\caption{Boundary bounding the largest area contour}
+		\end{figure}
+		\item \textbf{Note :} This code works only, when your object (which you want to track) is the largest object of its color in the frame.Refer Figure 3.
+		\begin{figure}[h!]
+		\includegraphics[scale=0.4]{Capture3.jpg}	
+		\centering
+		\caption{Boundary bounded on only one side of the bottle that has largest contour}
+		\end{figure}
 	\end{itemize}
+	\newpage
+	\section{Code}
+    The Python code for this tutorial is available \href{https://github.com/eYSIP-2016/Object-Tracking-Camera/tree/master/Code/1.%20Colored%20Object%20Tracking%20using%20HSV}{here}
+    \newpage
 	\section{Exercise}
 	Real time colored object tracking using webcam is shown below.
 	\newline
 	\newline
-	\includegraphics[scale=0.8]{image1.jpg}
+	\includegraphics[scale=0.7]{image1.jpg}
 	\newline
-	\includegraphics[scale=0.8]{image2.jpg}
+	\includegraphics[scale=0.7]{image2.jpg}
 	
 	\section{References}
 		\begin{enumerate}
