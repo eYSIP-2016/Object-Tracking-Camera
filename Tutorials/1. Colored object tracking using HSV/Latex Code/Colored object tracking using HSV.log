@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  10 JUL 2016 04:08
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.5.25)  10 JUL 2016 04:35
 entering extended mode
 **Colored*object*tracking*using*HSV.tex
 
 ("E:\Object Tracking Camera Repository\Object-Tracking-Camera\Tutorials\1. Colo
-red object tracking using HSV\Colored object tracking using HSV.tex"
+red object tracking using HSV\Latex Code\Colored object tracking using HSV.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -204,23 +204,23 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip43
 )
 ("E:\Object Tracking Camera Repository\Object-Tracking-Camera\Tutorials\1. Colo
-red object tracking using HSV\Colored object tracking using HSV.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+red object tracking using HSV\Latex Code\Colored object tracking using HSV.aux"
+)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count106
 \scratchdimen=\dimen113
@@ -236,7 +236,7 @@ LaTeX Font Info:    ... okay on input line 19.
 )
 \c@lstlisting=\count112
 \AtBeginShipoutBox=\box29
-Package hyperref Info: Link coloring OFF on input line 19.
+Package hyperref Info: Link coloring OFF on input line 20.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -245,130 +245,125 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count113
 )
-LaTeX Info: Redefining \ref on input line 19.
-LaTeX Info: Redefining \pageref on input line 19.
-LaTeX Info: Redefining \nameref on input line 19.
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
 
 ("E:\Object Tracking Camera Repository\Object-Tracking-Camera\Tutorials\1. Colo
-red object tracking using HSV\Colored object tracking using HSV.out")
+red object tracking using HSV\Latex Code\Colored object tracking using HSV.out"
+)
 ("E:\Object Tracking Camera Repository\Object-Tracking-Camera\Tutorials\1. Colo
-red object tracking using HSV\Colored object tracking using HSV.out")
+red object tracking using HSV\Latex Code\Colored object tracking using HSV.out"
+)
 \@outlinefile=\write3
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
+(Font)              <12> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 21.
+(Font)              <8> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 21.
+(Font)              <6> on input line 22.
  [1
 
 {C:/Users/Admin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ("E:\Object Tracking Camera Repository\Object-Tracking-Camera\Tutorials\1. Colo
-red object tracking using HSV\Colored object tracking using HSV.toc")
+red object tracking using HSV\Latex Code\Colored object tracking using HSV.toc"
+)
 \tf@toc=\write4
  [2]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 29.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
  [3]
-Overfull \hbox (3.90431pt too wide) in paragraph at lines 49--50
+Overfull \hbox (3.90431pt too wide) in paragraph at lines 50--51
 []\OT1/cmr/m/n/10.95 As ev-ery pixel in the frame has dif-fer-ent HSV val-ues,w
 e thresh-old(mask)
  []
 
-<Capture1.jpg, id=63, 505.89pt x 399.74344pt>
-File: Capture1.jpg Graphic file (type jpg)
- <use Capture1.jpg>
-Package pdftex.def Info: Capture1.jpg used on input line 52.
+<../Images/Capture1.jpg, id=63, 505.89pt x 399.74344pt>
+File: ../Images/Capture1.jpg Graphic file (type jpg)
+
+<use ../Images/Capture1.jpg>
+Package pdftex.def Info: ../Images/Capture1.jpg used on input line 53.
 (pdftex.def)             Requested size: 202.3524pt x 159.89453pt.
 
-Overfull \hbox (5.91301pt too wide) in paragraph at lines 50--56
+Overfull \hbox (5.91301pt too wide) in paragraph at lines 51--57
 \OT1/cmr/m/n/10.95 blobs in the frame and find their re-spec-tive ar-eas.Among 
 all the bounded
  []
 
-<Capture2.jpg, id=64, 501.37312pt x 394.47375pt>
-File: Capture2.jpg Graphic file (type jpg)
- <use Capture2.jpg>
-Package pdftex.def Info: Capture2.jpg used on input line 58.
+<../Images/Capture2.jpg, id=64, 501.37312pt x 394.47375pt>
+File: ../Images/Capture2.jpg Graphic file (type jpg)
+
+<use ../Images/Capture2.jpg>
+Package pdftex.def Info: ../Images/Capture2.jpg used on input line 59.
 (pdftex.def)             Requested size: 200.54568pt x 157.7867pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<Capture3.jpg, id=65, 503.63156pt x 395.22656pt>
-File: Capture3.jpg Graphic file (type jpg)
- <use Capture3.jpg>
-Package pdftex.def Info: Capture3.jpg used on input line 64.
+<../Images/Capture3.jpg, id=65, 503.63156pt x 395.22656pt>
+File: ../Images/Capture3.jpg Graphic file (type jpg)
+
+<use ../Images/Capture3.jpg>
+Package pdftex.def Info: ../Images/Capture3.jpg used on input line 65.
 (pdftex.def)             Requested size: 201.44905pt x 158.08781pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [4 <E:/Object Tracking Camera Repository/Object-Tracking-Camera/Tutorials/1. Co
-lored object tracking using HSV/Capture1.jpg>] [5 <E:/Object Tracking Camera Re
-pository/Object-Tracking-Camera/Tutorials/1. Colored object tracking using HSV/
-Capture2.jpg> <E:/Object Tracking Camera Repository/Object-Tracking-Camera/Tuto
-rials/1. Colored object tracking using HSV/Capture3.jpg>]
-<image1.jpg, id=78, 486.31688pt x 384.6872pt>
-File: image1.jpg Graphic file (type jpg)
- <use image1.jpg>
-Package pdftex.def Info: image1.jpg used on input line 77.
+lored object tracking using HSV/Images/Capture1.jpg>] [5 <E:/Object Tracking Ca
+mera Repository/Object-Tracking-Camera/Tutorials/1. Colored object tracking usi
+ng HSV/Images/Capture2.jpg> <E:/Object Tracking Camera Repository/Object-Tracki
+ng-Camera/Tutorials/1. Colored object tracking using HSV/Images/Capture3.jpg>]
+<../Images/image1.jpg, id=78, 486.31688pt x 384.6872pt>
+File: ../Images/image1.jpg Graphic file (type jpg)
+
+<use ../Images/image1.jpg>
+Package pdftex.def Info: ../Images/image1.jpg used on input line 78.
 (pdftex.def)             Requested size: 340.4195pt x 269.27919pt.
 
-<image2.jpg, id=79, 487.06969pt x 383.93437pt>
-File: image2.jpg Graphic file (type jpg)
- <use image2.jpg>
-Package pdftex.def Info: image2.jpg used on input line 79.
+<../Images/image2.jpg, id=79, 487.06969pt x 383.93437pt>
+File: ../Images/image2.jpg Graphic file (type jpg)
+
+<use ../Images/image2.jpg>
+Package pdftex.def Info: ../Images/image2.jpg used on input line 80.
 (pdftex.def)             Requested size: 340.94644pt x 268.75221pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--80
+Underfull \hbox (badness 10000) in paragraph at lines 75--81
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 83.
+(Font)              <10.95> on input line 84.
 
-Overfull \hbox (7.54764pt too wide) in paragraph at lines 83--84
-[][]$\OT1/cmtt/m/n/10.95 https : / / opencv-[]python-[]tutroals . readthedocs .
- io / en / latest / py _$
- []
-
-
-Overfull \hbox (6.54764pt too wide) in paragraph at lines 83--84
-$\OT1/cmtt/m/n/10.95 tutorials / py _ gui / py _ drawing _ functions / py _ dra
-wing _ functions .$
- []
-
-[6 <E:/Object Tracking Camera Repository/Object-Tracking-Camera/Tutorials/1. Co
-lored object tracking using HSV/image1.jpg> <E:/Object Tracking Camera Reposito
-ry/Object-Tracking-Camera/Tutorials/1. Colored object tracking using HSV/image2
-.jpg>]
 Overfull \hbox (7.54764pt too wide) in paragraph at lines 84--85
 [][]$\OT1/cmtt/m/n/10.95 https : / / opencv-[]python-[]tutroals . readthedocs .
  io / en / latest / py _$
  []
 
 
-Overfull \hbox (116.2727pt too wide) in paragraph at lines 84--85
-$\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ colorspaces / py _ colorsp
-aces . html # converting-[]colorspaces$[] 
+Overfull \hbox (6.54764pt too wide) in paragraph at lines 84--85
+$\OT1/cmtt/m/n/10.95 tutorials / py _ gui / py _ drawing _ functions / py _ dra
+wing _ functions .$
  []
 
-
+[6 <E:/Object Tracking Camera Repository/Object-Tracking-Camera/Tutorials/1. Co
+lored object tracking using HSV/Images/image1.jpg> <E:/Object Tracking Camera R
+epository/Object-Tracking-Camera/Tutorials/1. Colored object tracking using HSV
+/Images/image2.jpg>]
 Overfull \hbox (7.54764pt too wide) in paragraph at lines 85--86
 [][]$\OT1/cmtt/m/n/10.95 https : / / opencv-[]python-[]tutroals . readthedocs .
  io / en / latest / py _$
  []
 
 
-Overfull \hbox (18.04501pt too wide) in paragraph at lines 85--86
-$\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ filtering / py _ filtering
- . html # filtering$[] 
+Overfull \hbox (116.2727pt too wide) in paragraph at lines 85--86
+$\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ colorspaces / py _ colorsp
+aces . html # converting-[]colorspaces$[] 
  []
 
 
@@ -378,9 +373,9 @@ Overfull \hbox (7.54764pt too wide) in paragraph at lines 86--87
  []
 
 
-Overfull \hbox (29.54239pt too wide) in paragraph at lines 86--87
-$\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ contours / py _ contours _
- begin / py _ contours _$
+Overfull \hbox (18.04501pt too wide) in paragraph at lines 86--87
+$\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ filtering / py _ filtering
+ . html # filtering$[] 
  []
 
 
@@ -390,28 +385,41 @@ Overfull \hbox (7.54764pt too wide) in paragraph at lines 87--88
  []
 
 
-Overfull \hbox (35.29108pt too wide) in paragraph at lines 87--88
+Overfull \hbox (29.54239pt too wide) in paragraph at lines 87--88
+$\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ contours / py _ contours _
+ begin / py _ contours _$
+ []
+
+
+Overfull \hbox (7.54764pt too wide) in paragraph at lines 88--89
+[][]$\OT1/cmtt/m/n/10.95 https : / / opencv-[]python-[]tutroals . readthedocs .
+ io / en / latest / py _$
+ []
+
+
+Overfull \hbox (35.29108pt too wide) in paragraph at lines 88--89
 $\OT1/cmtt/m/n/10.95 tutorials / py _ imgproc / py _ contours / py _ contour _ 
 features / py _ contour _$
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 
 ("E:\Object Tracking Camera Repository\Object-Tracking-Camera\Tutorials\1. Colo
-red object tracking using HSV\Colored object tracking using HSV.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+red object tracking using HSV\Latex Code\Colored object tracking using HSV.aux"
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `Colored*object*tracking*using*HSV.out' has n
 ot changed.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 91.
  ) 
 Here is how much of TeX's memory you used:
- 6203 strings out of 493921
- 93120 string characters out of 3147282
- 173282 words of memory out of 3000000
+ 6204 strings out of 493921
+ 93473 string characters out of 3147282
+ 173296 words of memory out of 3000000
  9443 multiletter control sequences out of 15000+200000
  8672 words of font info for 31 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
