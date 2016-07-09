@@ -1,6 +1,7 @@
 ![e-Yantra Summer Internship](http://www.e-yantra.org/img/EyantraLogoLarge.png)
 ***
-# eYSIP-2016-Object Tracking Camera for Autonomous drone
+# eYSIP-2016
+# Object Tracking Camera for Autonomous drone
 Nowadays, we get drones that say they are tracking objects. But what they actually use is the GPS location of your mobile phone. So basically what the drone is tracking is the phone and not the actual object/human. This was the reason we came up with this idea of making an Object Tracking Camera system that can be mounted on an autonomous drone. This system will track an object using Real-Time Image Processing.
 
 ##Components and Software Used:
