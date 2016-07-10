@@ -4,5 +4,5 @@
 \contentsline {section}{\numberline {4}Software Requirement}{3}
 \contentsline {section}{\numberline {5}Theory and Description}{3}
 \contentsline {section}{\numberline {6}Experiment}{4}
-\contentsline {section}{\numberline {7}References}{17}
-\contentsline {section}{\numberline {8}Exercise}{18}
+\contentsline {section}{\numberline {7}Exercise}{5}
+\contentsline {section}{\numberline {8}References}{5}
