@@ -1,7 +1,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %	e-Yantra, IIT-Bombay
 
-%	Document Author: Abhishek Rathore, G. Harshawardhan
+%	Document Author: Abhishek Rathore, G. Harsha vardhan
 %	Date: 04-July,2016 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -47,7 +47,7 @@
         \item \textbf{Note :} These are the versions we were working on while creating this tutorial.
 	\end{itemize}
 	\section{Theory and Description}
-	Here We will be moving the camera according to the object movement in the frame so that the camera always tries to keep the object at its center.
+	Here We will be moving the camera according to the object movement in the frame so that the camera always tries to keep the object at the center of the frame.
 	\par To make the camera servos move in both Pitch and Roll directions at the same time simultaneously which is not possible as the servos don't have a feedback of how much distance they had moved or the angle they are in present state,and also we cant get a feedback through the center as both the camera and servos need the center at the same time for tracking and movement respectively.
 	\par This center controversy can be solved by multi-processing,in which we assign each Roll and Pitch servo a process in which they will be two global variables (one is Current Position of the servo and the second is Desired Position of the servo).These processes will be executing in the back-end all the time,but gets updated only when they get called by a function which updates the two global variables.   
 	\par For the distance to be moved by the servos as we don't have a feedback from the servo,we can use the proportionality constant which can be obtained by calibrating the servos several times.(Explained in Tutorial 5)

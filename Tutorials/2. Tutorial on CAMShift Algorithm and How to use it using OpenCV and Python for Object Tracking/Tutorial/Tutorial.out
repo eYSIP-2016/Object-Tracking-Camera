@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Objective}{}% 1
+\BOOKMARK [1][-]{section.2}{Prerequisites}{}% 2
+\BOOKMARK [1][-]{section.3}{Hardware Requirement}{}% 3
+\BOOKMARK [1][-]{section.4}{Software Requirement}{}% 4
+\BOOKMARK [1][-]{section.5}{Theory and Description}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Meanshift Algorithm}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Camshift Algorithm}{section.5}% 7
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Illustration of Camshift algorithm in a Second video frame}{subsection.5.2}% 8
+\BOOKMARK [2][-]{subsection.5.3}{Using Camshift Algorithm using Python OpenCV}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Code}{}% 10
+\BOOKMARK [1][-]{section.7}{Exercise}{}% 11
+\BOOKMARK [1][-]{section.8}{References}{}% 12
