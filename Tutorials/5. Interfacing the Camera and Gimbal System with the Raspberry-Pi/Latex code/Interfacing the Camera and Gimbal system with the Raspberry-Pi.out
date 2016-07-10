@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Interfacing the Camera and Gimbal system with the R-Pi}{}% 1
+\BOOKMARK [1][-]{section.2}{Prerequisites}{}% 2
+\BOOKMARK [1][-]{section.3}{Hardware Requirement}{}% 3
+\BOOKMARK [1][-]{section.4}{Software Requirement}{}% 4
+\BOOKMARK [1][-]{section.5}{Setup}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Setting up Raspberry-Pi}{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Setting up Camera\(Pi-Cam\)}{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.3}{Setting up the Pan-Tilt System}{section.5}% 8
+\BOOKMARK [1][-]{section.6}{Necessary Packages}{}% 9
+\BOOKMARK [1][-]{section.7}{Calibrating the Servos}{}% 10
+\BOOKMARK [1][-]{section.8}{References}{}% 11
