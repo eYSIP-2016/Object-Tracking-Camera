@@ -13,6 +13,8 @@
 \usepackage{url}
 \usepackage{float}
 \usepackage{subcaption}
+\graphicspath{{../Images/}}
+\usepackage{hyperref}
 \title{Tutorial on Object  Tracking using a Pi-Cam interfaced on a Raspberry-Pi}
 \author{e-Yantra Team}
 \date{\today}
@@ -58,23 +60,25 @@
 	 \par  As we know the servos work in a totally different processes ,they are fast enough to meet up our needs of the CAM Shift track window (which we took a 20x20 square from the center).The implementation of this is shown in the below sections.But this solution has not given us optimal performance as the whole system is slowed down.This can be solved by implementing PID controller according to the CAM shift center and camera center movement.
 	
 	\section{Experiment}
-	The Python code is available \href{}{here}
+	The Python code is available \href{https://github.com/eYSIP-2016/Object-Tracking-Camera/tree/master/Tutorials/6.%20Object%20%20Tracking%20using%20a%20Pi-Cam%20interfaced%20on%20a%20Raspberry-Pi/Code}{here} 
+	\newline
+	The demo can be found \href{https://youtu.be/8CXhzPhfl64}{here}
   	
  \newpage
 	\section{Exercise}
 	Object tracking with camera movement is shown below.
-	\begin{figure}[h]
-     \includegraphics[scale=0.5]{1.png}
+	\begin{figure}[h!]
+     \includegraphics[scale=0.6]{1.png}
    \centering
  \caption{Selction of object through ROI}
   \end{figure}
   \begin{figure}[h]
- \includegraphics[scale=0.5]{s1.jpg}
+ \includegraphics[scale=0.6]{s1.jpg}
    \centering
  \caption{Initial position of the object}
   \end{figure}
   \begin{figure}[h]
- \includegraphics[scale=0.5]{s2.jpg}
+ \includegraphics[scale=0.6]{s2.jpg}
    \centering
  \caption{Object slightly moved to left}
   \end{figure}
@@ -84,15 +88,18 @@
  \caption{Camera also slightly moved to left}
   \end{figure}
    \begin{figure}[h]
- \includegraphics[scale=0.5]{s3.jpg}
+ \includegraphics[scale=0.6]{s3.jpg}
    \centering
  \caption{Object largely deviated}
   \end{figure}
    \begin{figure}[h]
-    \includegraphics[scale=0.5]{3.png}
+    \includegraphics[scale=0.6]{3.png}
    \centering
  \caption{Camera sucessfully catching up with the object}
   \end{figure}
+  \newpage
+  .
+  \newpage
 	\section{References}
 	The idea of using multi-processing is taken from ServoBlaster package used in R-Pi for  multiple servo controlling written by Richard Hirst.
 	
