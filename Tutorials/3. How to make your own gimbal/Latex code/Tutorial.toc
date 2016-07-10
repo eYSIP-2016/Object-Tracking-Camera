@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}How to make your own gimbal?}{3}{section.1}
+\contentsline {section}{\numberline {2}Prerequisites}{3}{section.2}
+\contentsline {section}{\numberline {3}Hardware Requirement}{3}{section.3}
+\contentsline {section}{\numberline {4}Software Requirement}{3}{section.4}
+\contentsline {section}{\numberline {5}Theory and Description}{3}{section.5}
+\contentsline {subsection}{\numberline {5.1}What is Gimbal?}{3}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Roll, Pitch, Yaw Axis}{4}{subsection.5.2}
+\contentsline {subsection}{\numberline {5.3}Gimbal for quadcopter}{5}{subsection.5.3}
+\contentsline {subsection}{\numberline {5.4}Balancing the Gimbal}{6}{subsection.5.4}
+\contentsline {subsubsection}{\numberline {5.4.1}Balance the Pitch axis:}{6}{subsubsection.5.4.1}
+\contentsline {subsubsection}{\numberline {5.4.2}Figure 3: Balancing the Roll axis:}{7}{subsubsection.5.4.2}
+\contentsline {section}{\numberline {6}Experiment}{8}{section.6}
+\contentsline {subsection}{\numberline {6.1}Making a Gimbal}{8}{subsection.6.1}
+\contentsline {subsubsection}{\numberline {6.1.1}Required 3D printed parts:}{8}{subsubsection.6.1.1}
+\contentsline {subsubsection}{\numberline {6.1.2}Required purchased parts:}{12}{subsubsection.6.1.2}
+\contentsline {section}{\numberline {7}Compatible Camera}{16}{section.7}
+\contentsline {section}{\numberline {8}Exercise}{16}{section.8}
+\contentsline {section}{\numberline {9}References}{18}{section.9}

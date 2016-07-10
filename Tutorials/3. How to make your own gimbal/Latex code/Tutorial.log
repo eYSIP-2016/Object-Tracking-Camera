@@ -1,0 +1,611 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.10)  10 JUL 2016 15:31
+entering extended mode
+**./Tutorial.tex
+(Tutorial.tex
+LaTeX2e <2016/03/31> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/06/02 v1.0s Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2016/06/17 v0.06h Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\raaz\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\raaz\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+(C:\Users\raaz\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\subcaption.sty
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count89
+\c@subtable=\count90
+)
+(C:\Users\raaz\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/05/21 v6.83p Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen112
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/05/21 v6.83p Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count93
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count94
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen113
+\Fld@menulength=\count95
+\Field@Width=\dimen114
+\Fld@charsize=\dimen115
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/05/21 v6.83p Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+(Tutorial.aux)
+\openout1 = `Tutorial.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(C:\Users\raaz\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen116
+\scratchbox=\box26
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen117
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks16
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring OFF on input line 21.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count107
+)
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
+LaTeX Info: Redefining \nameref on input line 21.
+
+(Tutorial.out) (Tutorial.out)
+\@outlinefile=\write3
+\openout3 = `Tutorial.out'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+ [1
+
+{C:/Users/raaz/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (Tutorial.to
+c
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 6.
+)
+\tf@toc=\write4
+\openout4 = `Tutorial.toc'.
+
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 30.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+ [3]
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--66
+
+ []
+
+<../Images/Aircraft_Movement.JPG, id=113, 298.86656pt x 206.27063pt>
+File: ../Images/Aircraft_Movement.JPG Graphic file (type jpg)
+
+<use ../Images/Aircraft_Movement.JPG>
+Package pdftex.def Info: ../Images/Aircraft_Movement.JPG used on input line 67.
+
+(pdftex.def)             Requested size: 298.86581pt x 206.27011pt.
+ [4 <../Images/Aircraft_Movement.JPG>]
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ú in font cmr10!
+Missing character: There is no ‚ in font cmr10!
+Missing character: There is no Ä in font cmr10!
+Missing character: There is no ù in font cmr10!
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--79
+
+ []
+
+<../Images/3_Axis_Gimbal_Example.jpg, id=118, 752.8125pt x 752.8125pt>
+File: ../Images/3_Axis_Gimbal_Example.jpg Graphic file (type jpg)
+
+<use ../Images/3_Axis_Gimbal_Example.jpg>
+Package pdftex.def Info: ../Images/3_Axis_Gimbal_Example.jpg used on input line
+ 80.
+(pdftex.def)             Requested size: 301.11966pt x 301.11966pt.
+ [5 <../Images/3_Axis_Gimbal_Example.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
+
+ []
+
+<../Images/balancing_pitch_1.jpg, id=123, 115.632pt x 88.4103pt>
+File: ../Images/balancing_pitch_1.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_pitch_1.jpg>
+Package pdftex.def Info: ../Images/balancing_pitch_1.jpg used on input line 97.
+
+(pdftex.def)             Requested size: 208.13744pt x 159.13838pt.
+
+<../Images/balancing_pitch_2.jpg, id=124, 109.6095pt x 71.5473pt>
+File: ../Images/balancing_pitch_2.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_pitch_2.jpg>
+Package pdftex.def Info: ../Images/balancing_pitch_2.jpg used on input line 100
+.
+(pdftex.def)             Requested size: 230.18pt x 150.24934pt.
+ [6 <../Images/balancing_pitch_1.jpg> <../Images/balancing_pitch_2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--109
+
+ []
+
+<../Images/balancing_roll_1.jpg, id=129, 361.35pt x 292.84406pt>
+File: ../Images/balancing_roll_1.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_roll_1.jpg>
+Package pdftex.def Info: ../Images/balancing_roll_1.jpg used on input line 110.
+
+(pdftex.def)             Requested size: 252.94327pt x 204.98944pt.
+
+<../Images/balancing_roll_2.jpg, id=130, 361.35pt x 292.84406pt>
+File: ../Images/balancing_roll_2.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_roll_2.jpg>
+Package pdftex.def Info: ../Images/balancing_roll_2.jpg used on input line 113.
+
+(pdftex.def)             Requested size: 252.94327pt x 204.98944pt.
+ [7 <../Images/balancing_roll_1.jpg> <../Images/balancing_roll_2.jpg>]
+Overfull \hbox (6.54764pt too wide) in paragraph at lines 126--127
+[][]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store /
+ _ _ 960 _ _501 _ _Multi _
+ []
+
+
+<../Images/lower_vibration_observing_mount.jpg, id=140, 639.23325pt x 480.44281
+pt>
+File: ../Images/lower_vibration_observing_mount.jpg Graphic file (type jpg)
+ <use ../Images/lower_vibration_observing_mount.jpg>
+Package pdftex.def Info: ../Images/lower_vibration_observing_mount.jpg used on 
+input line 136.
+(pdftex.def)             Requested size: 319.61583pt x 240.22081pt.
+
+<../Images/upper_vibration_observing_mount.jpg, id=141, 639.23325pt x 480.44281
+pt>
+File: ../Images/upper_vibration_observing_mount.jpg Graphic file (type jpg)
+ <use ../Images/upper_vibration_observing_mount.jpg>
+Package pdftex.def Info: ../Images/upper_vibration_observing_mount.jpg used on 
+input line 142.
+(pdftex.def)             Requested size: 319.61583pt x 240.22081pt.
+ [8 <../Images/lower_vibration_observing_mount.jpg>]
+<../Images/Gimbal_Motor_Frame_1.jpg, id=150, 639.23325pt x 480.44281pt>
+File: ../Images/Gimbal_Motor_Frame_1.jpg Graphic file (type jpg)
+
+<use ../Images/Gimbal_Motor_Frame_1.jpg>
+Package pdftex.def Info: ../Images/Gimbal_Motor_Frame_1.jpg used on input line 
+149.
+(pdftex.def)             Requested size: 319.61583pt x 240.22081pt.
+ [9 <../Images/upper_vibration_observing_mount.jpg> <../Images/Gimbal_Motor_Fra
+me_1.jpg>]
+<../Images/Gimbal_Motor_Frame_2.jpg, id=156, 639.23325pt x 480.44281pt>
+File: ../Images/Gimbal_Motor_Frame_2.jpg Graphic file (type jpg)
+
+<use ../Images/Gimbal_Motor_Frame_2.jpg>
+Package pdftex.def Info: ../Images/Gimbal_Motor_Frame_2.jpg used on input line 
+157.
+(pdftex.def)             Requested size: 319.61583pt x 240.22081pt.
+
+<../Images/Gimbal_Motor_Frame_3.jpg, id=157, 639.23325pt x 480.44281pt>
+File: ../Images/Gimbal_Motor_Frame_3.jpg Graphic file (type jpg)
+
+<use ../Images/Gimbal_Motor_Frame_3.jpg>
+Package pdftex.def Info: ../Images/Gimbal_Motor_Frame_3.jpg used on input line 
+165.
+(pdftex.def)             Requested size: 319.61583pt x 240.22081pt.
+ [10 <../Images/Gimbal_Motor_Frame_2.jpg>] <../Images/Camera_Fixing_Mount.jpg, 
+id=164, 639.23325pt x 480.44281pt>
+File: ../Images/Camera_Fixing_Mount.jpg Graphic file (type jpg)
+
+<use ../Images/Camera_Fixing_Mount.jpg>
+Package pdftex.def Info: ../Images/Camera_Fixing_Mount.jpg used on input line 1
+73.
+(pdftex.def)             Requested size: 319.61583pt x 240.22081pt.
+ [11 <../Images/Gimbal_Motor_Frame_3.jpg> <../Images/Camera_Fixing_Mount.jpg>]
+Overfull \hbox (23.7937pt too wide) in paragraph at lines 190--195
+[]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store / _
+ _ 42247 _ _Quanum _ 2208 _
+ []
+
+
+Overfull \hbox (0.79895pt too wide) in paragraph at lines 190--195
+\OT1/cmtt/m/n/10.95 Precision _ Brushless _ Gimbal _ Motor _ GoPRO _ size _ 100
+ _ 200g _ .html$[] 
+ []
+
+<../Images/Brushless_Gimbal_Motor.jpg, id=171, 567.11874pt x 415.5525pt>
+File: ../Images/Brushless_Gimbal_Motor.jpg Graphic file (type jpg)
+
+<use ../Images/Brushless_Gimbal_Motor.jpg>
+Package pdftex.def Info: ../Images/Brushless_Gimbal_Motor.jpg used on input lin
+e 209.
+(pdftex.def)             Requested size: 170.13693pt x 124.6667pt.
+ [12 <../Images/Brushless_Gimbal_Motor.jpg>] [13]
+Overfull \hbox (6.54764pt too wide) in paragraph at lines 248--251
+[]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store / _
+ _ 84191 _ _Storm _ 32 _
+ []
+
+<../Images/Controller.jpg, id=185, 567.11874pt x 415.5525pt>
+File: ../Images/Controller.jpg Graphic file (type jpg)
+
+<use ../Images/Controller.jpg>
+Package pdftex.def Info: ../Images/Controller.jpg used on input line 252.
+(pdftex.def)             Requested size: 170.13693pt x 124.6667pt.
+
+Overfull \hbox (14.29633pt too wide) in paragraph at lines 258--261
+[]$\OT1/cmtt/m/n/10.95 http : / / www . amazon . com / DJI-[]Standard-[]Version
+-[]Damping-[]Absorber /
+ []
+
+<../Images/Shock_Absorber_Balls.jpg, id=187, 356.33125pt x 356.33125pt>
+File: ../Images/Shock_Absorber_Balls.jpg Graphic file (type jpg)
+
+<use ../Images/Shock_Absorber_Balls.jpg>
+Package pdftex.def Info: ../Images/Shock_Absorber_Balls.jpg used on input line 
+262.
+(pdftex.def)             Requested size: 178.16518pt x 178.16518pt.
+ [14 <../Images/Controller.jpg> <../Images/Shock_Absorber_Balls.jpg>]
+<../Images/gimbal_making_phase_1.jpg, id=195, 630.355pt x 473.77pt>
+File: ../Images/gimbal_making_phase_1.jpg Graphic file (type jpg)
+
+<use ../Images/gimbal_making_phase_1.jpg>
+Package pdftex.def Info: ../Images/gimbal_making_phase_1.jpg used on input line
+ 283.
+(pdftex.def)             Requested size: 315.17673pt x 236.88441pt.
+
+<../Images/Final_Gimbal.jpg, id=196, 630.355pt x 473.77pt>
+File: ../Images/Final_Gimbal.jpg Graphic file (type jpg)
+
+<use ../Images/Final_Gimbal.jpg>
+Package pdftex.def Info: ../Images/Final_Gimbal.jpg used on input line 290.
+(pdftex.def)             Requested size: 315.17673pt x 236.88441pt.
+ [15 <../Images/gimbal_making_phase_1.jpg>]
+<../Images/balancing_pitch_axis.jpg, id=203, 1028.34187pt x 578.16pt>
+File: ../Images/balancing_pitch_axis.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_pitch_axis.jpg>
+Package pdftex.def Info: ../Images/balancing_pitch_axis.jpg used on input line 
+311.
+(pdftex.def)             Requested size: 411.32947pt x 231.2599pt.
+
+Overfull \hbox (51.32947pt too wide) in paragraph at lines 311--312
+ [] 
+ []
+
+[16 <../Images/Final_Gimbal.jpg>]
+<../Images/balancing_roll_axis.jpg, id=208, 1028.34187pt x 578.16pt>
+File: ../Images/balancing_roll_axis.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_roll_axis.jpg>
+Package pdftex.def Info: ../Images/balancing_roll_axis.jpg used on input line 3
+18.
+(pdftex.def)             Requested size: 411.32947pt x 231.2599pt.
+
+Overfull \hbox (51.32947pt too wide) in paragraph at lines 318--319
+ [] 
+ []
+
+[17 <../Images/balancing_pitch_axis.jpg> <../Images/balancing_roll_axis.jpg>]
+<../Images/balancing_yaw_axis.jpg, id=213, 1028.34187pt x 578.16pt>
+File: ../Images/balancing_yaw_axis.jpg Graphic file (type jpg)
+
+<use ../Images/balancing_yaw_axis.jpg>
+Package pdftex.def Info: ../Images/balancing_yaw_axis.jpg used on input line 32
+5.
+(pdftex.def)             Requested size: 411.32947pt x 231.2599pt.
+
+Overfull \hbox (51.32947pt too wide) in paragraph at lines 325--326
+ [] 
+ []
+
+
+Overfull \hbox (6.54764pt too wide) in paragraph at lines 332--333
+[][]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store /
+ _ _ 964 _ _960 _ _Multi _
+ []
+
+
+Overfull \hbox (376.21497pt too wide) in paragraph at lines 338--339
+[][]$\OT1/cmtt/m/n/10.95 http : / / g03 . a . alicdn . com / kf / HTB193EVHFXXX
+XXTXVXXq6xXFXXXb / FPV-[]font-[]b-[]2-[]b-[]font-[]font-[]b-[]Axis-[]b-[]font-[
+]Brushless-[]font-[]b-[]Gimbal-[]b .
+ []
+
+
+Overfull \hbox (13.79633pt too wide) in paragraph at lines 339--340
+[][]$\OT1/cmtt/m/n/10.95 http : / / www . dronetrest . com / t / balancing-[]yo
+ur-[]brushless-[]gimbal /
+ []
+
+
+Overfull \hbox (6.54764pt too wide) in paragraph at lines 341--342
+[][]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store /
+ _ _ 960 _ _501 _ _Multi _
+ []
+
+
+Overfull \hbox (23.7937pt too wide) in paragraph at lines 342--343
+[][]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store /
+ _ _ 42247 _ _Quanum _ 2208 _
+ []
+
+
+Overfull \hbox (0.79895pt too wide) in paragraph at lines 342--343
+\OT1/cmtt/m/n/10.95 Precision _ Brushless _ Gimbal _ Motor _ GoPRO _ size _ 100
+ _ 200g _ .html$[] 
+ []
+
+[18 <../Images/balancing_yaw_axis.jpg>]
+Overfull \hbox (6.54764pt too wide) in paragraph at lines 343--344
+[][]$\OT1/cmtt/m/n/10.95 http : / / www . hobbyking . com / hobbyking / store /
+ _ _ 84191 _ _Storm _ 32 _
+ []
+
+
+Overfull \hbox (101.02664pt too wide) in paragraph at lines 344--345
+[][]$\OT1/cmtt/m/n/10.95 http : / / robokits . co . in / quadrotors-[]hexarotor
+s-[]drones / fpv-[]video-[]telemetry-[]osd /
+ []
+
+
+Overfull \hbox (22.54501pt too wide) in paragraph at lines 344--345
+\OT1/cmtt/m/n/10.95 dys-[]hdv-[]1-[]aerial-[]video-[]drone-[]action-[]camera-[]
+gopro-[]replacement ?
+ []
+
+
+Overfull \hbox (191.00565pt too wide) in paragraph at lines 344--345
+\OT1/cmtt/m/n/10.95 gclid = CjwKEAjw4dm6BRCQhtzl6Z6N4i0SJADFPu1nRx _ Fo9jfIlLyk
+MuizjcP-[]umoKJ5WaOs01bwGvmfgNhoC66Hw _
+ []
+
+
+Overfull \hbox (1.29895pt too wide) in paragraph at lines 345--346
+[][]$\OT1/cmtt/m/n/10.95 https : / / www . youtube . com / watch ? v = 80s-[]3G
+hD2zk & feature = youtu .
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 347.
+[19]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 347.
+ (Tutorial.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 347.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 347.
+Package rerunfilecheck Info: File `Tutorial.out' has not changed.
+(rerunfilecheck)             Checksum: E13CEAB65EE50A4EFFBC7A65AB0CA13F;1171.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 347.
+ ) 
+Here is how much of TeX's memory you used:
+ 6336 strings out of 493335
+ 99800 string characters out of 3136683
+ 183285 words of memory out of 3000000
+ 9769 multiletter control sequences out of 15000+200000
+ 8979 words of font info for 32 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,6n,38p,505b,472s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Tutorial.pdf (19 pages, 1465124 bytes).
+PDF statistics:
+ 283 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 245 words of extra memory for PDF output out of 10000 (max. 10000000)
+
