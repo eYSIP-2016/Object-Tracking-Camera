@@ -3,6 +3,6 @@
 \contentsline {section}{\numberline {3}Hardware Requirement}{3}{section.3}
 \contentsline {section}{\numberline {4}Software Requirement}{3}{section.4}
 \contentsline {section}{\numberline {5}Theory and Description}{3}{section.5}
-\contentsline {section}{\numberline {6}Code}{5}{section.6}
-\contentsline {section}{\numberline {7}Exercise}{6}{section.7}
-\contentsline {section}{\numberline {8}References}{7}{section.8}
+\contentsline {section}{\numberline {6}Code}{7}{section.6}
+\contentsline {section}{\numberline {7}Exercise}{7}{section.7}
+\contentsline {section}{\numberline {8}References}{8}{section.8}

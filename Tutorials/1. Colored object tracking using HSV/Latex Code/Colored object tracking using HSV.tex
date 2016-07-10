@@ -44,23 +44,41 @@
 		\item \textbf{Note :} These are the versions we were working on while creating this tutorial.
 	\end{itemize}
 	\section{Theory and Description}
+	 Object detection and segmentation is the most important and challenging fundamental task of computer vision.  It is a critical part in many applications such as image search, scene understanding, etc.The easiest way to detect and segment an object from an image is the color based methods . The object and the background should have a significant color difference in order to successfully  segment objects using color based methods.
+		\par Here we are using HSV Colorspace for Object detection instead of RGB Colorspace because unlike RGB, HSV separates luma, or the image intensity, from chroma or the color information.By using HSV/HSL we can also remove intensity,lightness which is not possible in RGB colorspace.Moreover HSV can also detect skin color ,fire color etc. 
 	\begin{itemize}
-		\item Object detection and segmentation is the most important and challenging fundamental task of computer vision.  It is a critical part in many applications such as image search, scene understanding, etc.The easiest way to detect and segment an object from an image is the color based methods . The object and the background should have a significant color difference in order to successfully  segment objects using color based methods.
-		\item Here we are using HSV Colorspace for Object detection instead of RGB Colorspace because unlike RGB, HSV separates luma, or the image intensity, from chroma or the color information.By using HSV/HSL we can also remove intensity,lightness which is not possible in RGB colorspace.Moreover HSV can also detect skin color ,fire color etc. 
-		\item  As every pixel in the frame has different HSV values,we threshold(mask) the object by extracting it using the HSV values of it.We do this by masking all pixels by setting value 1(white) that have the HSV value as of the object and other pixels in the frame to 0 .
-		\item After getting the binary image,we find contours bounding the white blobs in the frame and find their respective areas.Among all the bounded contours,the contour with the largest area would be our colored object.
+		\item First we read the frames of the video through a webcam using cv2.VideoCapture(0)and we define boundary parameters of HSV values of the color which we are detecting which will be further passed for tracking the object.
+		
+		\item Now we convert the RGB frame into HSV color frame and mask the HSV frame using the boundary values passed by us.
 		\begin{figure}[h!]
-		\includegraphics[scale=0.4]{Capture1.jpg}	
+		\includegraphics[scale=0.9]{Capture.jpg}	
+		\centering
+		\end{figure}
+		
+		\item Masking of all pixels is done by setting value 1(white) of the pixels that have the HSV value as of the object and other pixels in the frame to 0 .
+		\begin{figure}[h!]
+		\includegraphics[scale=0.9]{Capture5.jpg}	
+		\centering
+		\end{figure}
+		
+		\item After getting the binary image,we find contours bounding the white blobs in the frame .
+		\begin{figure}[h!]
+			\includegraphics[scale=0.9]{Capture6.jpg}	
+		\end{figure}
+
+	\item Now we find the contour areas in the frame.Among all the bounded contours,the contour with the largest area would be our colored object.Refer Figure 1 for better understanding.
+		\begin{figure}[h!]
+		\includegraphics[scale=0.4]{Capture2.jpg}	
 		\centering
 		\caption{Masked image showing contours in the frame}
 		\end{figure}
-		\item Now we generate a boundary bounding that contour.In this way we can identify a colored object in a frame.By repeating this process in every frame we can track the object.Refer Figure 2		
+	\item Now we generate a boundary bounding that contour.In this way we can identify a colored object in a frame.By repeating this process in every frame we can track the object.Refer Figure 2		
 		\begin{figure}[h]
-		\includegraphics[scale=0.4]{Capture2.jpg}	
+		\includegraphics[scale=0.4]{Capture1.jpg}	
 		\centering
 		\caption{Boundary bounding the largest area contour}
 		\end{figure}
-		\item \textbf{Note :} This code works only, when your object (which you want to track) is the largest object of its color in the frame.Refer Figure 3.
+	\item \textbf{Note :} This code works only, when your object (which you want to track) is the largest object of its color in the frame.Refer Figure 3.
 		\begin{figure}[h!]
 		\includegraphics[scale=0.4]{Capture3.jpg}	
 		\centering
@@ -68,9 +86,10 @@
 		\end{figure}
 	\end{itemize}
 	\newpage
+	.
+	\newpage
 	\section{Code}
     The Python code for this tutorial is available \href{https://github.com/eYSIP-2016/Object-Tracking-Camera/tree/master/Tutorials/1.%20Colored%20object%20tracking%20using%20HSV/Code}{here}
-    \newpage
 	\section{Exercise}
 	Real time colored object tracking using webcam is shown below.
 	\newline
