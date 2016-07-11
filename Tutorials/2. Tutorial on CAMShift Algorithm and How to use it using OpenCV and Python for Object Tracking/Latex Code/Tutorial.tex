@@ -58,7 +58,7 @@
 			\begin{figure}[h!]
 				\includegraphics[scale=0.5 ]{../Images/meanshift.jpg}
 				\centering
-				\caption{Meanshif Algortithm (Courtesy: opencv-python-tutroals.readthedocs.io)}
+				\caption{Meanshift Algortithm (Courtesy: opencv-python-tutroals.readthedocs.io)}
 			\end{figure}
 			
 			The initial window in Figure 1 is shown in blue circle with the name “C1”. Its original center is marked in blue rectangle, named “C1.o”. But if you find the centroid of the points inside that window, you will get the point “C1.r” (marked in small blue circle) which is the real centroid of window. Surely they don’t match. So move your window such that circle of the new window matches with previous centroid. Again find the new centroid. Most probably,it won’t match. So move it again, and continue the iterations such that center of window and its centroid falls on the same location (or with a small desired error). So finally what you obtain is a window with maximum pixel distribution. It is marked with green circle, named “C2”.

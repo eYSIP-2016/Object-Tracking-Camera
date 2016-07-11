@@ -25,7 +25,7 @@
 	\tableofcontents
 	\newpage
 	\section{Objective}
-		This tutorial will teach you "How to track the object without errors based on ROI selection and How to re-recognize the object if it escapes and comes back inside the frame".
+		This objective of the tutorial is "How to track the object without errors based on ROI selection and How to re-recognize the object if it escapes and comes back inside the frame".
 	\section{Prerequisites}
 		User should have handy knowledge of the following for understanding this tutorial.
 		\begin{itemize}
@@ -46,7 +46,7 @@
 			\item \textbf{Note :} These are the versions we were working on while creating this tutorial.
 		\end{itemize}
 	\section{Theory and Description}
-		 The base of algorithm used in this Tutorial is based on Camshift algorithm and this \href{http://vgl-ait.org/mdailey/uploads/publication_file/filename/106/Basit-CAMSHIFT.pdf}{research paper}. Details of Camshift algorithm can be found \href{https://github.com/eYSIP-2016/Object-Tracking-Camera/tree/master/Tutorials}{here}.
+		 The base of algorithm used in this tutorial is based on Camshift algorithm and this \href{http://vgl-ait.org/mdailey/uploads/publication_file/filename/106/Basit-CAMSHIFT.pdf}{research paper}. Details of Camshift algorithm can be found \href{https://github.com/eYSIP-2016/Object-Tracking-Camera/tree/master/Tutorials}{here}.
 		 
 		 The working of algorithm used for object tracking is described below.
 		 \begin{itemize}
@@ -84,7 +84,7 @@
 				\begin{center}
 					\textbf{Figure 5}
 				\end{center}
-		 	\item Now it takes next frame and changes its color space from RGB to HSV and then eliminates the region of frame which was too far from the object in previous window using previous bounding box because sometimes Camshift Algorithm converges to other object of similar color of target object. Figure 6 shows code and Figure 7 shows Output image. We have considered that object movement will be real not very fast.
+		 	\item Now it takes next frame and changes its color space from RGB to HSV and then eliminates the region of frame which was too far from the object in previous window using previous bounding box because sometimes Camshift Algorithm converges to other object of similar color of target object. Figure 6 shows code and Figure 7 shows Output image. We have considered that object movement will be real (not very fast).
 			 	\begin{center}
 			 		\includegraphics[scale=0.9]{frame_elimination_code.JPG}
 			 	\end{center}
@@ -155,12 +155,13 @@
 				 \begin{center}
 				 	\textbf{Figure 13(c): Redection part 3}
 				 \end{center}
-				 
-			\item So this algorithm continuous above process iteratively and tracks the object frame by frame. 
+				 \item Then largest area contour is calculated and a bounding box is formed around it and center is given to us.In this way the object will be re-tracked.Refer Figure 13(b)(c). 
+			\item So this algorithm continues above process iteratively and tracks the object frame by frame. 
 		 \end{itemize}
 	
 	\section{Experiment}
-	The Python code can be found \href{}{here}. To run code run run.py file and pause video by pressing 'p' and give roi and then track object by pressing 'p' again.
+	The Python code can be found \href{https://github.com/eYSIP-2016/Object-Tracking-Camera/tree/master/Tutorials/4.%20Object%20Tracking%20%28Based%20on%20ROI%29%20and%20Re-recognizing%20the%20object%20if%20it%20escapes%20and%20comes%20back%20into%20the%20frame/code}{here}. 
+	\par To run code run run.py file and pause video by pressing 'p' and give roi and then track object by pressing 'p' again.
 	\section{Exercise}
 	Re-detection and tracking of an object  is shown below. In Figure 14 object is inside the frame. In Figure 15 object escapes from the frame. Then in Figure 16 It is again tracking the object.
 	\begin{center}
@@ -189,7 +190,12 @@
 	 	\textbf{Figure 17: Testing algorithm with similar colored object.}
 	 \end{center}
 	 \section{Limitations}
-		 If similar colored object as color of your object is inside the frame then the algorithm will track the object but in presence of similar colored whole background it will say object is lost. If object is inside the frame after ROI selection, algorithm will track object in any scale and orientation. But if object escapes and comes back into the frame then it will be tracked if it will come to almost similar scale of object at the time of ROI selection.
+		 \begin{itemize}
+		 
+		 \item Suppose there are two similar objects P and Q,and we are tracking object P
+and it goes out of the frame,If in a case Object Q comes into the frame,the algorithm may mistake Q as P as they are both similar objects 
+\item if the Object P comes back with large scale changes,then the algorithm may not re-track it.
+		  \end{itemize}
 	 \newpage
 	\section{References}
 	\begin{enumerate}
